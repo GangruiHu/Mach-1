@@ -64,8 +64,8 @@ Servo retainers - PLA - Hold servos in place
 VTX bracket/tray - PETG - Optional, for FPV camera
 Motor plate - PLA - 15 layers on the bottom for durability
 Nose plug (camera cap) - PLA - 2 walls, 8% infill
-
 Print time: ~24 hours total across all parts
+
 <img width="480" height="313" alt="image" src="https://github.com/user-attachments/assets/280ec640-fad7-444d-ab39-1acc29bad195" />
 <img width="1272" height="422" alt="Screenshot 2026-10-25 155442" src="https://github.com/user-attachments/assets/92d54b33-f88e-4d6f-819a-1bcd08211fb3" />
 
