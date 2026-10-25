@@ -44,5 +44,7 @@ After 24 hours of printing, I got most of the plane body 3D printed, with the ex
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/d96828b0-8c7d-46cb-b075-1a56303f7801" />
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/057b4544-3651-4176-b355-4055915f4024" />
 
+**Total time spent:** 2 hours
+
 
 
