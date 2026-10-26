@@ -31,24 +31,21 @@ Flight time: 8–12 minutes
 All components from Amazon for fast shipping. Total: ~$100-115
 
 | Item | Qty | Price | Link |
-|------|-----|-------|------|
-| Motor – Brushless outrunner, 2200kV | 1 | $10 | https://www.amazon.com/gp/product/B09WHLJ2GN |
-| ESC – 40A brushless controller, 2-6S | 1 | $12 | https://www.amazon.com/gp/product/B0CWDSP8YS |
-| Battery – 2S LiPo, 1500–2000 mAh | 1 | $8 | https://www.amazon.com/gp/product/B07Y6L4LF1 |
-| Charger – LiPo balance charger | 1 | $6.99 | https://www.amazon.com/gp/product/B0G64L3JLM |
-| Receiver – Micro RC receiver (IBUS) | 1 | $15 | https://www.amazon.com/gp/product/B0F318LP13 |
-| Servos – 9g digital/analog servos | 2 | $12 | https://www.amazon.com/gp/product/B07MLR1498 |
-| Motor mount hardware | 1 | $3 | Self-sourced |
-| Propeller – 5×4.5" pusher prop | 1 | $5.99 | https://www.amazon.com/gp/product/B0F8R6VJJ8 |
-| Connectors – XT60/AS150 adapters | 1 pack | $8 | https://www.amazon.com/gp/product/B07TSMNGHJ |
-| Wires – 18 AWG silicone, connectors | 1 pack | $6 | https://www.amazon.com/gp/product/B0CWDSP8YS |
-| Servo linkage rods | 1 pack | $5.99 | https://www.amazon.com/gp/product/B0F318LP13 |
-| Hinge pins (1mm steel wire) | 1 pack | $10.99 | https://www.amazon.com/gp/product/B0F8R6VJJ8 |
-| Carbon tube (spar) – 4mm OD | 2 ft | $5 | Self-sourced |
-| Foam tape & adhesive | 1 | $3 | Hardware store |
-| M2 and M3 assorted screws | 1 box | $5 | Hardware store |
+| :--- | :--- | :--- | :--- |
+| Motor – Brushless 2207, 1777kV | 1 | $10 | [Buy on Amazon](https://www.amazon.com/gp/product/B0G65166YK/ref=ox_sc_act_title_5?smid=A68ZB174Q6ZDX&psc=1) |
+| ESC – 40A brushless controller, 2-6S | 1 | $12 | [Buy on Amazon](https://www.amazon.com/gp/product/B0CN317H74/ref=ox_sc_act_title_8?smid=A2A9NMO3YYPB9R&psc=1) |
+| Battery – 6S LiPo, 1300 mAh | 1 | $34 | [Buy on Amazon](https://www.amazon.com/gp/product/B07Y6L4LF1) |
+| Receiver – Micro RC receiver (IBUS) | 1 | $15 | [Buy on Amazon](https://www.amazon.com/gp/product/B09WHLJ2GN/ref=ox_sc_act_title_6?smid=AHYBUG4B9GJPC&psc=1) |
+| Servos – 9g digital/analog servos | 2 | $7 | [Buy on Amazon](https://www.amazon.com/Micro-Servos-Helicopter-Airplane-Controls/dp/B07MLR1498/ref=sr_1_11?crid=3V4DR5X5YAZLQ&dib=eyJ2IjoiMSJ9.EdycfDxnDtcyy4IWKKo05F1y_XWeFnw-QFyOt0Eu5f5ocoLZnkp2EZmkBg9fxlM_gkWz7hzUqS5pXG37Dq7001r3TFOw0z3EfM4Z7ZpmAPRq1lwLALuj61PXWO1OLxHNYJ3DFLUds55l6jpi3y7c_prQyTZu-Mcach0pcXxm2OlZ-CATzQcYWFrkmDEQWVhuDIMjkXzFoPjCaYm676ZKWFW481CGhWJwDw1-5VssRBeipVvtzVEIo_5MDW1KMOITHiRgoYszZpjLYFc1LvxhjFJYotARBhRZd5SXqmh1hWg.UWc8MfO0536vpYlUJkYX5xSuaNlLq6fVXbHOsRNhDCM&dib_tag=se&keywords=9g+servo&qid=1792973751&sprefix=%2Caps%2C181&sr=8-11) |
+| Propeller – 5×4.5" pusher prop | 1 | $5.99 | [Buy on Amazon](https://www.amazon.com/gp/product/B07Y6L4LF1/ref=ox_sc_act_title_9?smid=A1THAZDOWP300U&psc=1) |
+| Servo linkage rods | 1 pack | $5.99 | [Buy on Amazon](https://www.amazon.com/gp/product/B0F318LP13/ref=ox_sc_act_title_3?smid=A1Z47B0RO7981D&psc=1) |
+| Hinge pins (1mm steel wire) | 1 pack | $10.99 | [Buy on Amazon](https://www.amazon.com/gp/product/B0CN79NZ7Y/ref=ox_sc_act_title_4?smid=A33MI8ERWM8RCP&psc=1) |
+| Carbon tube (spar) – 5mm OD | 400 mm | $14 | [Buy on Amazon](https://www.amazon.com/gp/product/B0FBX1L3PY/ref=ox_sc_act_title_7?smid=A2SQCOYQC9C41K&psc=1) |
+| M3 assorted screws | 1 box | $5 | Hardware store |
+| M3 Heat Inserts | 1 box | $5 | Hardware store |
 | CA glue + epoxy | 1 ea | $4 | Hardware store |
-| 3D-printed parts | – | $0* | Your printer |
+| 3D-printed parts | – | $0 | *Your printer |
+| **Total** | | **$115** | |
 
 *3D printing filament cost is minimal if you already own a printer (~$5–10 worth of PLA/PETG).*
 
