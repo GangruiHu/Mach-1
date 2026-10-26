@@ -12,4 +12,4 @@ Item,Qty,Price,Link
 "M3 Heat Inserts","1 box",$5,"Hardware store"
 "CA glue + epoxy","1 ea",$4,"Hardware store"
 "3D-printed parts",–,$0,"*Your printer"
-"Total", $115
+"Total", $115, "",""
